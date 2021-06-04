@@ -1,0 +1,244 @@
+{
+"the_array" : [
+    {
+        "id": 1419,
+        "name": "VEGETARIAN",
+        "menus": [
+            {
+                "id": 1070,
+                "title": "Ginger, Cauliflower and Broccoli",
+                "slug": "KABA-131",
+                "price": "7.25",
+                "ingredient_lists": "Florets of Cauliflower and broccoli with onion, tomatoes and ginger crowned with yoghurt and honey",
+                "special_notes": "Mild Spicy, Milk",
+                "photo": "/media/menus/1622191386_599881_02513dda-6c82-45a9-8208-5f2fce56c5bb.jpg",
+                "dine_in": true,
+                "takeaway": false,
+                "addon_categories": []
+            },
+            {
+                "id": 1071,
+                "title": "Bengal Pumpkin",
+                "slug": "KABA-132",
+                "price": "7.50",
+                "ingredient_lists": "Fresh pumpkin with tomatoes, chopped onions, peppers and fenugreek",
+                "special_notes": "Medium Spicy",
+                "photo": "/media/menus/1622191472_7518811_6d01049f-00e5-4259-9fe5-99da27cdfc55.jpg",
+                "dine_in": true,
+                "takeaway": false,
+                "addon_categories": []
+            },
+            {
+                "id": 1072,
+                "title": "Paneer Makhani",
+                "slug": "KABA-133",
+                "price": "7.50",
+                "ingredient_lists": "Indian homemade cheese cooked in special tomato based sauce with roasted spices, butter and fenugreek",
+                "special_notes": "Mild Spicy, Nuts, Milk",
+                "photo": "/media/menus/1622191544_80088_04dbce12-12d4-41f7-9ef9-72d6191c0101.jpg",
+                "dine_in": true,
+                "takeaway": false,
+                "addon_categories": []
+            }
+        ],
+        "weight": 5
+    },
+    {
+        "id": 1240,
+        "name": "SEA FOOD",
+        "menus": [
+            {
+                "id": 1063,
+                "title": "Bengal Jumbo Prawn Bhuna",
+                "slug": "KABA-124",
+                "price": "13.50",
+                "ingredient_lists": "King prawns cooked in Bengal style, with peppers, tomato, onions and coarsely crushed spices",
+                "special_notes": "Hot Spicy, Crustaceans",
+                "photo": "/media/menus/1622186872_5507824_7fc42bfa-0dbc-4cb2-bb46-b1c05777c312.jpg",
+                "dine_in": true,
+                "takeaway": false,
+                "addon_categories": []
+            },
+            {
+                "id": 1064,
+                "title": "Mumbai Fish Curry",
+                "slug": "KABA-125",
+                "price": "11.95",
+                "ingredient_lists": "Tilapia marinated in spices and gently cooked with mustard seeds and curry leaves",
+                "special_notes": "Medium Spicy, Fish, Mustard",
+                "photo": "/media/menus/1622186943_852045_4ab367f4-8f77-4aaa-87f7-bcad974e5eec.jpg",
+                "dine_in": true,
+                "takeaway": false,
+                "addon_categories": []
+            },
+            {
+                "id": 1065,
+                "title": "Goan Seafood Curry",
+                "slug": "KABA-126",
+                "price": "14.95",
+                "ingredient_lists": "Stainless salmon and prawns cooked in a creamy coconut milk , curry leaves and mustard seeds",
+                "special_notes": "",
+                "photo": "/media/menus/1622186983_1786444_54441393-254b-4d92-8874-b1f6e1375ca2.png",
+                "dine_in": true,
+                "takeaway": false,
+                "addon_categories": []
+            }
+        ],
+        "weight": 3
+    },
+    {
+        "id": 1238,
+        "name": "TANDOORI",
+        "menus": [
+            {
+                "id": 1066,
+                "title": "Nawabi  Mixed Platter",
+                "slug": "KABA-127",
+                "price": "15.50",
+                "ingredient_lists": "Selection of our chefs special tandoori dishes served together",
+                "special_notes": "Medium Spicy",
+                "photo": "/media/menus/1622187081_3210697_8064a594-3943-4ca7-90ef-74ccf64c922c.jpg",
+                "dine_in": true,
+                "takeaway": false,
+                "addon_categories": []
+            },
+            {
+                "id": 1067,
+                "title": "Kashmiri Lamb Chops",
+                "slug": "KABA-128",
+                "price": "16.95",
+                "ingredient_lists": "Lamb chops marinated with saffron and aromatic spices, cooked in our clay tandoor oven and served with chutney",
+                "special_notes": "Medium Spicy",
+                "photo": "/media/menus/1622187139_9732566_93814c1c-ae93-4bab-a31d-d590f0531376.jpg",
+                "dine_in": true,
+                "takeaway": false,
+                "addon_categories": []
+            },
+            {
+                "id": 1068,
+                "title": "Tandoori Chicken",
+                "slug": "KABA-129",
+                "price": "12.95",
+                "ingredient_lists": "Chicken marinated in a spiced yoghurt, cooked in our clay tandoor oven and served on the bone",
+                "special_notes": "Medium Spicy, Egg, Milk",
+                "photo": "/media/menus/1622187192_8887508_8959c2ef-bb1e-449d-8fc9-300ff946ff00.jpg",
+                "dine_in": true,
+                "takeaway": false,
+                "addon_categories": []
+            }
+        ],
+        "weight": 4
+    },
+    {
+        "id": 1235,
+        "name": "INDIAN",
+        "menus": [
+            {
+                "id": 1061,
+                "title": "Palak Gosht",
+                "slug": "KABA-122",
+                "price": "11.95",
+                "ingredient_lists": "Tender lamb cooked with spinach, herbs and spices",
+                "special_notes": "Medium Spicy",
+                "photo": "/media/menus/1622186725_2038033_c84f0bdf-7b0d-468b-9225-50604db1e245.jpg",
+                "dine_in": true,
+                "takeaway": false,
+                "addon_categories": []
+            },
+            {
+                "id": 1062,
+                "title": "Lamb Rogan Josh",
+                "slug": "KABA-123",
+                "price": "11.95",
+                "ingredient_lists": "Our most popular dish tender lamb cooked in Kashmiri style in a rich onion and tomato based sauce",
+                "special_notes": "Medium Spicy",
+                "photo": "/media/menus/1622186784_5048952_5614e473-0a0e-4b6f-877d-ceed17f2026f.jpg",
+                "dine_in": true,
+                "takeaway": false,
+                "addon_categories": []
+            },
+            {
+                "id": 1060,
+                "title": "Chicken Tikka Masala",
+                "slug": "KABA-121",
+                "price": "10.50",
+                "ingredient_lists": "(Britains favorite) dish Marinated chicken cooked in almonds, cream and masala sauce",
+                "special_notes": "Mild Spicy, Milk, Nuts",
+                "photo": "/media/menus/1622186663_2769_74dbce9c-418c-4308-908a-144188f21359.jpg",
+                "dine_in": true,
+                "takeaway": false,
+                "addon_categories": []
+            }
+        ],
+        "weight": 2
+    },
+    {
+        "id": 736,
+        "name": "STARTERS",
+        "menus": [
+            {
+                "id": 1057,
+                "title": "Lamb Samosa",
+                "slug": "KABA-118",
+                "price": "5.95",
+                "ingredient_lists": "Folded parcels freshly made and filled with minced lamb and spices",
+                "special_notes": "Medium Spicy, Egg",
+                "photo": "/media/menus/1622186298_5159461_14273a56-a8a7-4925-ab9b-b14aca47c900.jpg",
+                "dine_in": true,
+                "takeaway": true,
+                "addon_categories": [
+                    {
+                        "id": 15895,
+                        "menu": 1057,
+                        "category": {
+                            "id": 1311,
+                            "name": "nashta"
+                        },
+                        "is_mandatory": false,
+                        "minimum_required": 1,
+                        "maximum_allowed": 1,
+                        "add_on_items": []
+                    },
+                    {
+                        "id": 15894,
+                        "menu": 1057,
+                        "category": {
+                            "id": 1310,
+                            "name": "test"
+                        },
+                        "is_mandatory": false,
+                        "minimum_required": 1,
+                        "maximum_allowed": 1,
+                        "add_on_items": []
+                    }
+                ]
+            },
+            {
+                "id": 1058,
+                "title": "Balsari Baby Squid",
+                "slug": "KABA-119",
+                "price": "7.95",
+                "ingredient_lists": "Fresh squid marinated in herbs and spices, stir fried with green chilies, onions and curry leaves",
+                "special_notes": "Medium Spicy, Crustaceans",
+                "photo": "/media/menus/1622186420_7176352_24ff7fac-eb76-4ec5-801f-df945c2e942d.jpg",
+                "dine_in": true,
+                "takeaway": false,
+                "addon_categories": []
+            },
+            {
+                "id": 1059,
+                "title": "Papdi Chaat",
+                "slug": "KABA-120",
+                "price": "5.95",
+                "ingredient_lists": "Crunchy wheat crisps, potato, chickpeas, yogurt and tamarind chutney",
+                "special_notes": "Vegetarian, Milk",
+                "photo": "/media/menus/1622186492_6508074_fe41d1bf-55b9-4399-8b7d-f931ba17df04.jpg",
+                "dine_in": true,
+                "takeaway": false,
+                "addon_categories": []
+            }
+        ],
+        "weight": 1
+    }
+]
+}
