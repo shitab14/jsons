@@ -1,0 +1,140 @@
+{
+  "code": 200,
+
+  "message": "This is for the Dynamic View",
+
+  "globalStyle": {
+    "backgroundColor": "#FAFAFA",
+    "forgroundColor": "#AFAFAF",
+    "paddingTop": 10,
+    "paddingBottom": 10,
+    "paddingLeft": 14,
+    "paddingRight": 14,
+    "cornerRadiusTopLeft": 5,
+    "cornerRadiusTopRight": 5,
+    "cornerRadiusBottomLeft": 5,
+    "cornerRadiusBottomRight": 5,
+    "backgroundImage": ""
+  },
+  
+  "dynamicViews": [
+    {
+      "viewType": "staticImageSection",
+      "style": {
+        "backgroundColor": "#FAFAFA",
+        "forgroundColor": "#AFAFAF",
+        "paddingTop": 10,
+        "paddingBottom": 10,
+        "paddingLeft": 14,
+        "paddingRight": 14,
+        "cornerRadiusTopLeft": 5,
+        "cornerRadiusTopRight": 5,
+        "cornerRadiusBottomLeft": 5,
+        "cornerRadiusBottomRight": 5,
+        "backgroundImage": ""
+      },
+      "content": {
+        "products": null,
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRyFJ4l7FBSWcHkP3dei7rOX9Hb3AucaLc0F4aX7uI7ULWxkrOftcXDuhvGR2R7wUD5_6o&usqp=CAU",
+        "imageRatioWidth": 7,
+        "imageRatioHeight": 3
+      }
+    },
+    {
+      "viewType": "horizontalProductsSection",
+      "style": {
+        "backgroundColor": "#FAFAFA",
+        "forgroundColor": "#AFAFAF",
+        "paddingTop": 10,
+        "paddingBottom": 10,
+        "paddingLeft": 14,
+        "paddingRight": 14,
+        "cornerRadiusTopLeft": 5,
+        "cornerRadiusTopRight": 5,
+        "cornerRadiusBottomLeft": 5,
+        "cornerRadiusBottomRight": 5,
+        "backgroundImage": ""
+      },
+      "content": {
+        "products":[
+          {
+            "name": "Bulbasaur",
+            "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/1.png"
+          },
+          
+          {
+            "name": "Charmander",
+            "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/4.png"
+          },
+          
+          {
+            "name": "Squirtle",
+            "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/7.png"
+          }
+        ],
+        "image": null,
+        "imageRatioWidth": null,
+        "imageRatioHeight": null
+      }
+    },
+    {
+      "viewType": "verticalProductsSection",
+      "style": {
+        "backgroundColor": "#FAFAFA",
+        "forgroundColor": "#AFAFAF",
+        "paddingTop": 10,
+        "paddingBottom": 10,
+        "paddingLeft": 14,
+        "paddingRight": 14,
+        "cornerRadiusTopLeft": 5,
+        "cornerRadiusTopRight": 5,
+        "cornerRadiusBottomLeft": 5,
+        "cornerRadiusBottomRight": 5,
+        "backgroundImage": ""
+      },
+      "content": {
+        "products":[
+          {
+            "name": "Bulbasaur",
+            "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/1.png"
+          },
+          
+          {
+            "name": "Charmander",
+            "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/4.png"
+          },
+          
+          {
+            "name": "Squirtle",
+            "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/7.png"
+          }
+        ],
+        "image": null,
+        "imageRatioWidth": null,
+        "imageRatioHeight": null
+      }
+    },
+    {
+      "viewType": "staticImageSection",
+      "style": {
+        "backgroundColor": "#FAFAFA",
+        "forgroundColor": "#AFAFAF",
+        "paddingTop": 10,
+        "paddingBottom": 10,
+        "paddingLeft": 14,
+        "paddingRight": 14,
+        "cornerRadiusTopLeft": 5,
+        "cornerRadiusTopRight": 5,
+        "cornerRadiusBottomLeft": 5,
+        "cornerRadiusBottomRight": 5,
+        "backgroundImage": ""
+      },
+      "content": {
+        "products": null,
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRyFJ4l7FBSWcHkP3dei7rOX9Hb3AucaLc0F4aX7uI7ULWxkrOftcXDuhvGR2R7wUD5_6o&usqp=CAU",
+        "imageRatioWidth": 7,
+        "imageRatioHeight": 3
+      }
+    }
+  ]
+}
