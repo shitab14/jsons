@@ -3,24 +3,6 @@
   "message": "success",
   "data": {
     "content" : {
-      "enum": {
-        "businessType": [
-          "product",
-          "category",
-          "service"
-        ],
-        "mediaType": [
-          "gif",
-          "image",
-          "video"
-        ],
-        "serviceTileType": [
-          "featured_category",
-          "featured_service",
-          "category",
-          "service"
-        ]
-      },
       "sections": [
         {
           "sectionType": "promotional_banner_section",
