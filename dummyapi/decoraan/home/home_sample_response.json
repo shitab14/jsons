@@ -47,7 +47,7 @@
                   },
                   "mediaContent": {
                     "mediaType": "image",
-                    "imageUrl": "https://s3-alpha-sig.figma.com/img/8ca7/3cea/8d567e14751d1c0098e98b9d20f24da2?Expires=1721001600&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=OwR~mDUXwJpTsevP28h1RqnCkXlcsQZulQoHUYcbmm~kXPRpKvTKnmCbjEmqFS0nT2er~8gxVtGtjjnszP22sgwqXpPpcJ5muBXknRqeTzvf4x-kxiQYyfwTVbdrdM2HYakAaJNczQkJiOISwomJI2EwQ3oUwxITPA3~u~rbmMAPNKUXz0TtZHTnrIbyeKU0SgPXDG2Uqe87hIBN7XIGoyBhiAqV9RXevdEfa4NjJFzpd-uWFMhZNCBgEPklojrvkdxxtyzoA8Qd6V7vpgz-FgbcCiEcgggsHOdTAfGQG3We4w2dBscXxnxeLCm40UtXnTODLyGjdDwQi0Yn4Mux8w__",
+                    "imageUrl": "https://raw.githubusercontent.com/AppsDevMaruf/SSL-Resource/main/raw/image/home/s_1/b1.png",
                     "videoData": null,
                     "gifUrl": null
                   },
@@ -81,13 +81,45 @@
                     "mediaType": "video",
                     "imageUrl": null,
                     "videoData": {
-                      "url": "https://appsdevmaruf.github.io/SSL-Resource/raw/video/furnituredemo1.mp4",
-                      "thumbnail": "https://s3-alpha-sig.figma.com/img/2dfd/2eb5/527b2de9974f1b769c4c22162d6cee07?Expires=1721606400&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=hu~aE2NzjU6daPkjY4Ha93i2gPyitwFM0Fdg8rrxvvmFq7Ht634QKeSoHfAALda5UJXfifjxpAPtEhL3xhfJSebgMYtR4pTWmPULS1I5dkGeQ8yYIUAKGU9AzOUunrx~rWPD5Ri4taI~cPtQZ5ij~SS5fenlnYQYb7G2NFL805MJf8nDDlduxsAwXfj-B9RRfT4S-c3K7K05Hcpet5wBi8t60JOa0eQKzePm02PtWn~vXRCEekY0BdHhfn2QnRs7OALz3MCYIPCcP41VJ-~7HLFkjVYbj8haSJxL8o2m7kxHqsA40m14oobGnAU2azQdNGEU5RotmzKQMNvn6ZiWAQ__",
+                      "url": "https://appsdevmaruf.github.io/SSL-Resource/raw/video/furniture_demo_video.mp4",
+                      "thumbnail": "https://raw.githubusercontent.com/AppsDevMaruf/SSL-Resource/main/raw/image/home/s_1/b2.jpg",
                       "autoplay": true,
                       "autoRepeat": false,
                       "duration": 10000
                     },
                     "gifUrl": null
+                  },
+                  "shopButton": {
+                    "show": true,
+                    "backgroundColor": "#FFFFFF",
+                    "cornerRadius": "32",
+                    "navigationUrl": "www.google.com.bd",
+                    "buttonText": {
+                      "navigationUrl": "",
+                      "text": "SHOP THE ROOM",
+                      "textColor": "#344054"
+                    }
+                  }
+                }
+              },
+              {
+                "navigationUrl": "promotionalBannerv1nav",
+                "bannerContent": {
+                  "title": {
+                    "navigationUrl": null,
+                    "text": null,
+                    "textColor": "#1D2939"
+                  },
+                  "subtitle": {
+                    "navigationUrl": null,
+                    "text": null,
+                    "textColor": "#1D2939"
+                  },
+                  "mediaContent": {
+                    "mediaType": "gif",
+                    "imageUrl": null,
+                    "videoData": null,
+                    "gifUrl": "https://raw.githubusercontent.com/AppsDevMaruf/SSL-Resource/main/raw/gif/4.gif"
                   },
                   "shopButton": {
                     "show": true,
@@ -116,10 +148,10 @@
                     "textColor": "#1D2939"
                   },
                   "mediaContent": {
-                    "mediaType": "gif",
-                    "imageUrl": null,
+                    "mediaType": "image",
+                    "imageUrl": "https://raw.githubusercontent.com/AppsDevMaruf/SSL-Resource/main/raw/image/home/s_1/b2.png",
                     "videoData": null,
-                    "gifUrl": "https://raw.githubusercontent.com/AppsDevMaruf/SSL-Resource/main/raw/gif/4.gif"
+                    "gifUrl": null
                   },
                   "shopButton": {
                     "show": true,
@@ -155,7 +187,7 @@
                     "id": "1",
                     "mediaContent": {
                       "mediaType": "image",
-                      "imageUrl": "https://s3-alpha-sig.figma.com/img/a122/eaeb/34f5e2dcfebdf17c0f245535823af31e?Expires=1721001600&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=Nvmhmeib0BU21-3J0hwFZaICZ9FHkNaYlVbGsfr3zDtlj1pu-XN-MCbUgdrnGKLvUr2sorg2er2~uogzQdhNlj-qxN3SbnteQ6cG-Y4n~4oFg7ZnoNT5pCaS5Uc8Cj~kMyHIZqYBBtHjbUjA-iProGCc1YgDfQofGFsoTfngNQ8RTPOd7HXyl9NAV4sac1Sn9BPnqvxlhPux1dAr3Zlni0mHxXAo9rsLPMZY0yM8dxeykOT5wdk-uIvDVpSkowK3hYWIh1V3nZPCy1SeS7ufEV4Xi4xu92W6c4yx9gDpl76aU0ojJfBXniLrw7XWd-Kg6cxWStvkt0cu3xKNqEiBGQ__",
+                      "imageUrl": "https://raw.githubusercontent.com/AppsDevMaruf/SSL-Resource/main/raw/image/home/s_2/b1.jpg",
                       "videoData": null,
                       "gifUrl": null
                     },
@@ -181,7 +213,7 @@
                         "tagTitleColor": "#FFFFFF",
                         "tagBackgroundImage": "",
                         "tagBackgroundColor": "#1B1B1B",
-                        "tagIcon": "https://i.ibb.co/tKbrjHY/ic-flash.png"
+                        "tagIcon": "https://raw.githubusercontent.com/AppsDevMaruf/SSL-Resource/main/raw/image/home/icon/ic_flash.png"
                       }
                     ]
                   },
@@ -190,7 +222,7 @@
                     "id": "2",
                     "mediaContent": {
                       "mediaType": "image",
-                      "imageUrl": "https://s3-alpha-sig.figma.com/img/a122/eaeb/34f5e2dcfebdf17c0f245535823af31e?Expires=1721606400&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=EamPOuGYGFGVqmZBV-3pX6Yeg3zXq-PCmtJ8rdebFtvHK1h8ybwtIzJOdqNcd9cIAUErO0l94ixIOus~4RnmfjEvgPWOjJx6mc1F~S0beOliSCXMf5NiByAqp85C76vnnlou5Tp-0jjOlMAn2JnVNrwjZxTsnr6zuDTVKWRyKN97lbQVSw~989oJtYmGRrK~dge~A~tpTi87IroRtGsfXw-lwLJ~Icuu8P-FMu5QFJLoOgBX5A~H0JPy7l97BE1wFUbPLjWyUn8TVrUraFEbE6rpiYq1htJiicgi6A1ZVn8HGMnEV7nQLT71dFXWv4TcbHpoPPvfOc9eOuf2CV~s7A__",
+                      "imageUrl": "https://raw.githubusercontent.com/AppsDevMaruf/SSL-Resource/main/raw/image/home/s_2/b2.jpg",
                       "videoData": null,
                       "gifUrl": null
                     },
@@ -216,7 +248,7 @@
                         "tagTitleColor": "#FFFFFF",
                         "tagBackgroundImage": "",
                         "tagBackgroundColor": "#1B1B1B",
-                        "tagIcon": "https://i.ibb.co/tKbrjHY/ic-flash.png"
+                        "tagIcon": "https://raw.githubusercontent.com/AppsDevMaruf/SSL-Resource/main/raw/image/home/icon/ic_flash.png"
                       }
                     ]
                   },
@@ -225,7 +257,7 @@
                     "id": "3",
                     "mediaContent": {
                       "mediaType": "image",
-                      "imageUrl": "https://s3-alpha-sig.figma.com/img/fa73/54e8/8b857138406486c2b0b0f6b5364cf9a8?Expires=1721606400&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=FvqEzl23Ha-PXpFejErOdLdNvQMD9dNu8guzkc-YO4xlWIhL5NEOg9Pf-VIRGUPMvJhKPDe~TxJ52vvzu382Hy-spJoKxxhkXx0a7GMLa80f20rV8zxgJA9O7qasRaEo8zsFpOCemH-03jhIXhxJxyvnL2-yVVY1iokAQR48d7cB3Q5YhZDtvmFGxIZ8lTA~b0oBiPG9aMQY95q3PswYwX58PVkAJL~S0fga4YASyuUcqDaE4mJ2W4epvXLcD8pTQQg-RRD3irlV70oGjQ5dxWtRUJz2BiNLhENKVtBrozNeyIASxfx0nbUXOo1-fhOA86MLYdPYjMPP~QNk8LI2nw__",
+                      "imageUrl": "https://raw.githubusercontent.com/AppsDevMaruf/SSL-Resource/main/raw/image/home/s_2/b1.jpg",
                       "videoData": null,
                       "gifUrl": null
                     },
@@ -251,7 +283,7 @@
                         "tagTitleColor": "#FFFFFF",
                         "tagBackgroundImage": "",
                         "tagBackgroundColor": "#1B1B1B",
-                        "tagIcon": "https://i.ibb.co/tKbrjHY/ic-flash.png"
+                        "tagIcon": "https://raw.githubusercontent.com/AppsDevMaruf/SSL-Resource/main/raw/image/home/icon/ic_flash.png"
                       }
                     ]
                   }
@@ -270,7 +302,7 @@
                     "id": "1",
                     "mediaContent": {
                       "mediaType": "image",
-                      "imageUrl": "https://s3-alpha-sig.figma.com/img/a122/eaeb/34f5e2dcfebdf17c0f245535823af31e?Expires=1721001600&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=Nvmhmeib0BU21-3J0hwFZaICZ9FHkNaYlVbGsfr3zDtlj1pu-XN-MCbUgdrnGKLvUr2sorg2er2~uogzQdhNlj-qxN3SbnteQ6cG-Y4n~4oFg7ZnoNT5pCaS5Uc8Cj~kMyHIZqYBBtHjbUjA-iProGCc1YgDfQofGFsoTfngNQ8RTPOd7HXyl9NAV4sac1Sn9BPnqvxlhPux1dAr3Zlni0mHxXAo9rsLPMZY0yM8dxeykOT5wdk-uIvDVpSkowK3hYWIh1V3nZPCy1SeS7ufEV4Xi4xu92W6c4yx9gDpl76aU0ojJfBXniLrw7XWd-Kg6cxWStvkt0cu3xKNqEiBGQ__",
+                      "imageUrl": "https://raw.githubusercontent.com/AppsDevMaruf/SSL-Resource/main/raw/image/home/s_2/b2.jpg",
                       "videoData": null,
                       "gifUrl": null
                     },
@@ -296,7 +328,7 @@
                         "tagTitleColor": "#FFFFFF",
                         "tagBackgroundImage": "",
                         "tagBackgroundColor": "#1B1B1B",
-                        "tagIcon": "https://ibb.co/QQ6wSJY"
+                        "tagIcon": "https://raw.githubusercontent.com/AppsDevMaruf/SSL-Resource/main/raw/image/home/icon/ic_flash.png"
                       }
                     ]
                   },
@@ -305,7 +337,7 @@
                     "id": "2",
                     "mediaContent": {
                       "mediaType": "image",
-                      "imageUrl": "https://s3-alpha-sig.figma.com/img/80a1/c992/abf57c3899743c4b0bd4611b8601b96f?Expires=1721001600&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=St1mlwbmx8IS5QH1dKpD0LM-d4Ugk8c4jXpKk~QcMq8HFSh8J372wGL8gF0d6QtUQZcXuYXhrvmQaeXMeq6DiE99v9ZPcJtdH0iZmzx~GyxJPyzU~K9DbqzoWf6p1gZlld5S5rQyFDKl81C1Jnr~AQyC7WfEo1Z1fDbtdk4iMDNesef-ySYO4IvbTD444ZoNSMXSz6IOsPlSUkzrF8rPLKClJM3tLHi3B78E8ZXxC-ncfJRLUvdNE~UHG94R9rEyPGbY1SB5DSGOCwluWQoMGL3idXFJCb8iYGa7pS~LYkY92vEY-S9GkYTTAjKREPuDuLOk0-lfHrn-fVydCKTe4A__",
+                      "imageUrl": "https://raw.githubusercontent.com/AppsDevMaruf/SSL-Resource/main/raw/image/home/s_2/b1.jpg",
                       "videoData": null,
                       "gifUrl": null
                     },
@@ -331,7 +363,7 @@
                         "tagTitleColor": "#FFFFFF",
                         "tagBackgroundImage": "",
                         "tagBackgroundColor": "#1B1B1B",
-                        "tagIcon": "https://i.ibb.co/tKbrjHY/ic-flash.png"
+                        "tagIcon": "https://raw.githubusercontent.com/AppsDevMaruf/SSL-Resource/main/raw/image/home/icon/ic_flash.png"
                       }
                     ]
                   }
@@ -488,7 +520,7 @@
                   "id": "1",
                   "mediaContent": {
                     "mediaType": "image",
-                    "imageUrl": "https://s3-alpha-sig.figma.com/img/98c6/3d16/17b31db4e9e162737337ea0b62b86d0a?Expires=1721001600&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=MhmNzkPtIuL4jXfKIciKXi-tM-MX82r6wHVJuZAUUmTXpsAnb-~Vu2dzzKllL5u12xHEw2S9owSAtoSyU7UUD8RR4CaOWLFFIIMgBeE7bPB7iUKGAiIjG0OGf6D-ExECcG-GCbRM4b9T~YFnFaxg~FwlNEX90S0L~mgCY4yIYRGuQr8pC6XZD7vYHPnF2luzZrP3YW9d7r0XU0zRTigjWvSjrnjh1SWu6AEb0Hl6nfsyXGg96fDr0k~N0RxZrfxdEJwmyuTEV-uK8dNf2O3oOrxhewm2rY-E~HI8sF6gtvGlS9qR~5W36An46SZglGQjqgIFNhJpP88hCypvXSpyPQ__",
+                    "imageUrl": "https://raw.githubusercontent.com/AppsDevMaruf/SSL-Resource/main/raw/image/home/s_5/1.png",
                     "videoData": null,
                     "gifUrl": null
                   },
@@ -516,7 +548,7 @@
                   "id": "2",
                   "mediaContent": {
                     "mediaType": "image",
-                    "imageUrl": "https://s3-alpha-sig.figma.com/img/6ac0/b3e1/828e5bee1a5856a89c36ce40d2ef9fa8?Expires=1721606400&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=fyPXeTK4~Zj5XOkgMW-bTv0gA-WLVmWBqLI91z8CHe2~XYaT46xKXYV8QQTD9s2S1DRCSI1SZQqu9~EHpsBMce14KczHP9yKp2K9D4qXoQ7c5Owu8nGEVTAwmx-gY6sYNOrQOoQcPo8SFwvgNTjEuERVH~krRKbwAUrxF0MilUItkIjAXF~EEBAEVrYs5L49F7Ei4sHTuqXSPr6Xbq2HYRTK2SoaXXVh1LO8Eq6i23u--vN2mLDaT12Zo5Ba3HzlTu45oRHNBquQ4umJJxVvY2rE7y9KdDvnOsMNqkNihR2-stSRKk9JCOtU7FCgrhsNRzoM3DVZ3o7Xrs7LPvZmVQ__",
+                    "imageUrl": "https://raw.githubusercontent.com/AppsDevMaruf/SSL-Resource/main/raw/image/home/s_5/2.png",
                     "videoData": null,
                     "gifUrl": null
                   },
@@ -544,7 +576,7 @@
                   "id": "3",
                   "mediaContent": {
                     "mediaType": "image",
-                    "imageUrl": "https://s3-alpha-sig.figma.com/img/dde3/a937/d80c9221ef1f659c257db7050366b6a5?Expires=1721606400&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=Req4YUd6MTqZEVe4mMfMbjzhNpxYITRNDc~qXxFAHJaFtWKiF3L0O0BtdP-obOk9pVAJ-~2WCxM59QjgWfebA5XxQaCplRLMKP20IXNkwKzrCvlcOlUX~jRts787EVAqo5xNtb9EKdHAjsplvgIKm04cHDatsBiFkSA1y5WJyatEArr-cRqif7nqgKU-sW1GPUkzOoCWLepUmNsdZedOUR2ecMZ~qnDmpDIfCA4B8P~pwzu~OhnPDDPE3Go2BE-hQkgz6RlnEtMzSpGCLgeWrkqSobVZfwzi5rGY8VBgbo-cmByGsp6eA05X2MV-1-XBwE2YrvLrHfkotV5yvpTPCg__",
+                    "imageUrl": "https://raw.githubusercontent.com/AppsDevMaruf/SSL-Resource/main/raw/image/home/s_5/1.png",
                     "videoData": null,
                     "gifUrl": null
                   },
@@ -572,7 +604,7 @@
                   "id": "4",
                   "mediaContent": {
                     "mediaType": "image",
-                    "imageUrl": "https://s3-alpha-sig.figma.com/img/98c6/3d16/17b31db4e9e162737337ea0b62b86d0a?Expires=1721001600&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=MhmNzkPtIuL4jXfKIciKXi-tM-MX82r6wHVJuZAUUmTXpsAnb-~Vu2dzzKllL5u12xHEw2S9owSAtoSyU7UUD8RR4CaOWLFFIIMgBeE7bPB7iUKGAiIjG0OGf6D-ExECcG-GCbRM4b9T~YFnFaxg~FwlNEX90S0L~mgCY4yIYRGuQr8pC6XZD7vYHPnF2luzZrP3YW9d7r0XU0zRTigjWvSjrnjh1SWu6AEb0Hl6nfsyXGg96fDr0k~N0RxZrfxdEJwmyuTEV-uK8dNf2O3oOrxhewm2rY-E~HI8sF6gtvGlS9qR~5W36An46SZglGQjqgIFNhJpP88hCypvXSpyPQ__",
+                    "imageUrl": "https://raw.githubusercontent.com/AppsDevMaruf/SSL-Resource/main/raw/image/home/s_5/2.png",
                     "videoData": null,
                     "gifUrl": null
                   },
@@ -629,7 +661,7 @@
                   "id": "1",
                   "mediaContent": {
                     "mediaType": "image",
-                    "imageUrl": "https://s3-alpha-sig.figma.com/img/11e9/f107/b16b6e6c9df6396127d3e22eb0453724?Expires=1721001600&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=LeOJBwtHf693lktTuVyX7K9jfVbeW-i1EeUcsGyWANlc8jfqNUxfiiU0UU6BV9ZYZ0IkwuFjWaWI7X6RRXA2RNtHG8PEB6BH3OeKfKr0xbELxlpfi013owE5HfWc6wzALSfjnR9lqpys9HUcVxjbIuacV-mu5CbF6y6MITztDCxBKmczIyVjO3ulq426Fo5CNduX1NSDQvXiZkgdhTSAJjRK3Lz6nQBujWlTicATcOEy~wRE4WUn70Nk-dOtfCpSm0sq2H-Cn2cGEFkwjpBZ3XtXEmc8sJ35EMOeFgf~chz1ZSzTBkzgM~3gLTVjpoGFdDd4alu636-~KFkuwVi~Fg__",
+                    "imageUrl":"https://raw.githubusercontent.com/AppsDevMaruf/SSL-Resource/main/raw/image/home/s_6_prodcuts/1.png",
                     "videoData": null,
                     "gifUrl": null
                   },
@@ -657,7 +689,7 @@
                   "id": "2",
                   "mediaContent": {
                     "mediaType": "image",
-                    "imageUrl": "https://s3-alpha-sig.figma.com/img/318b/70c9/3438d1ef5af66b19a7c0b1214ec6287b?Expires=1721001600&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=Dda0VyAjXaTAaRMc0mIqGlq0uPBq8BfEDNc53kT7b8dTJoUoIzsiUhfb9ZQ0dJ3nulcP8a8~gC5Q-cO7IuSWQuKqaVLX1faT76kZpIFcsmcDqqmYhE7oyc3-fw~Y-3rMJXKNT~i~-xKhXEr21ioEfr648p0dWjjgIAT-rw0lx22J9K3FOgwIhI182mwHuP~j3Pj7oHifOiGlgUNcjei0WYFeKExr0SNGGiFfgp2D6VS6y~KTPP0GHBoA7efUbxB40ufPKNE0ubctwK8XtYRpAmOawBuDthRAsyxGtu~nEo2BKd0SzoYq9sp96QMAk~iS55eQZRY-4PsEPWb~-XN4lA__",
+                    "imageUrl": "https://raw.githubusercontent.com/AppsDevMaruf/SSL-Resource/main/raw/image/home/s_6_prodcuts/2.png",
                     "videoData": null,
                     "gifUrl": null
                   },
@@ -685,7 +717,7 @@
                   "id": "3",
                   "mediaContent": {
                     "mediaType": "image",
-                    "imageUrl": "https://s3-alpha-sig.figma.com/img/4d26/b525/16faea662b69a528be457d9627047064?Expires=1721001600&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=LYT03~N0eEERNtJAUev7-MgInXRVbQppPXvK1hOZwNaUOsLDFfn7yehNxgtPKVECzV7R7zP5TdpDHQgIkgX5z6WiH6efLrby1xVHiAa4oRjoGASDLmUMHhjwYUvh~Os11jDDk9IJbetLQJH36Y1l3BIHzDxXcPgPoqNFJtxdr0ziGQJKD~LgG7eIrXybFJlSd59boSYhXDNGEk1reNsjaogJm0p~1xsWZrr1dEUaa-7l-Pr1zWyyHmxpjV1S2b3V0ACbq~aa-bRrhG2m3So2lvaNg-13aDgzj~C~sDNY2IBMUW1BpEMDFHcrwbQNwQUPBuNfEEjgkZ5ajKvTjITBEg__",
+                    "imageUrl": "https://raw.githubusercontent.com/AppsDevMaruf/SSL-Resource/main/raw/image/home/s_6_prodcuts/3.png",
                     "videoData": null,
                     "gifUrl": null
                   },
@@ -713,7 +745,7 @@
                   "id": "4",
                   "mediaContent": {
                     "mediaType": "image",
-                    "imageUrl": "https://s3-alpha-sig.figma.com/img/f96f/a266/63874969ed0e3912e572e7129eb9d840?Expires=1721001600&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=cQ9qduPX3K4jVI3~qG2j7y-Z~vfnLgyL4ZEwyOmvPFqKurtpYASBBwWfpC71U95jezvbUEb4~TQoerZfuiaAs7p3EM5hMMuiAz6UXNtJpRDbrjna7iIydeUShzoHA-QH9iDJbWN6VJ4fjMIG9Ro7MWxM-1E3TUt4yK9lHKq4VDN7fJup4WkXsnSS3vrMDdBP8jIkxF4u~LPwO-Wxitl361fmx-6A44kfOBNs0CqzbZH51e3sBhB2bcSZAqG5pMHu1x54-sb7O8DGIlIF8HMWvmQoD0J2Ai2tpx4c81KXy5MhqMEz2yE4WHCTuoxy4PRpm4XAwGHmeKtKDojMZ-6cBQ__",
+                    "imageUrl": "https://raw.githubusercontent.com/AppsDevMaruf/SSL-Resource/main/raw/image/home/s_6_prodcuts/4.png",
                     "videoData": null,
                     "gifUrl": null
                   },
@@ -769,7 +801,7 @@
                 "tileContent": {
                   "mediaContent": {
                     "mediaType": "image",
-                    "imageUrl": "https://s3-alpha-sig.figma.com/img/436f/37b7/9e51eb1b9e0ed2e3ce0055887aae43f1?Expires=1721001600&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=fy9nrDEq2xHUNcxfD8iCHQ-hkyMIUqbl2riT3XrIvHrvU0mNOMt97cv6ohVibuUHhHGIO5DVBbDHK9WvjCD98xDBxgTiP~mqYSXtyR~vaxGm~fldySgOJH1dlVlT275ZrWwInhM9om8AK2A1OSbycOgTAbpG~B68HVfjWUVh7BVrAZ6XHcw28wMfGtWl~XLcPoje~BjfKGRXD0OuHzZsnzNBL0FzPs6p14hT6ty5lNVVNJwa7kS-QKvhROzywCiN-LbeDWMrMRRKUV~JlCcPwmL5b-yJGXzKkqo7CxqKyO4Ejlviz1DLRRb~3yc2tTKziFxv2~OKfCtQx2eElsTvEQ__",
+                    "imageUrl": "https://raw.githubusercontent.com/AppsDevMaruf/SSL-Resource/main/raw/image/home/s_7_flash_sale/1.jpg",
                     "videoData": null,
                     "gifUrl": null
                   },
@@ -807,7 +839,7 @@
                 "tileContent": {
                   "mediaContent": {
                     "mediaType": "image",
-                    "imageUrl": "https://s3-alpha-sig.figma.com/img/1261/d99b/913e6dc86b73679342e199efc3a00db9?Expires=1721606400&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=UGgTRAVgv7ZPGKLhXdaCqNmQYCcOB4vZCgqriBwHqOf~TgW1y4WiAf46DArs-j1y76vatUDrOKA5H97OX-HgowCHfA11EFUDATZjCkja0rF3axudZZ7iBapG8Qwj7QPIIqnNu-RgnYfqmJhmxNAhFmiO8CMWeb3zV~d9NcWWs7WmzxCtAzS0IE5-FuSWhf-0~5CvMe32uKLSZVzeYqnqBliYl1-48qf94HpJiJgUq~PLG-0VasOzirhjBfS2a6mBw2dOTrA~-qlUrv2~kYDANBW1jzhvqwUOfqdBWc2B9ryAXg~qR4dzrzORuzCPe72WwK45FzkzTezFdW9eqDSkEQ__",
+                    "imageUrl": "https://raw.githubusercontent.com/AppsDevMaruf/SSL-Resource/main/raw/image/home/s_7_flash_sale/2.jpg",
                     "videoData": null,
                     "gifUrl": null
                   },
@@ -865,14 +897,8 @@
                   "id": "1",
                   "mediaContent": {
                     "mediaType": "image",
-                    "imageUrl": "https://s3-alpha-sig.figma.com/img/8833/3f80/68ab06880a2655f13627754671dead95?Expires=1721606400&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=SQLNKEo6MbOQ1PMIWxYPOR7-69hRw7jMIELD7lylb8JyJIwmG-~M6lMzSMjf0uoQCdd-Ns3Sl3DS5nslo1c56azCQ0UeI8tHV6PQh8m~-xgdS7XAepfpa3sbSWEF-99lXzXb6qTgweCvL2F5zl54NhrlXB3zMccNskivEOaj5hd0r5dOXkWh-gjr5idBCDqjyCbS2ymf2H~iOfH8dPRZc8AoMfzWXdjxceeOZjqXfEHpMi96DWc3BDOs6-cl5GSdCUh8ddRIRpmx5e349M~wHJaY7XyF7g-h1OEXv1ckt7bL-9LXVhVZJWFfG4hEpL-1cTBV78SNLLxd0uvAb~dxUA__",
-                    "videoData": {
-                      "url": null,
-                      "duration": 10000,
-                      "thumbnail": null,
-                      "autoplay": false,
-                      "autoRepeat": false
-                    },
+                    "imageUrl": "https://raw.githubusercontent.com/AppsDevMaruf/SSL-Resource/main/raw/image/home/s_8_service/1.png",
+                    "videoData":null,
                     "gifUrl": null
                   },
                   "tileTitle": {
@@ -904,7 +930,7 @@
                   "id": "1",
                   "mediaContent": {
                     "mediaType": "image",
-                    "imageUrl": "https://rb.gy/qg8spk",
+                    "imageUrl": "https://raw.githubusercontent.com/AppsDevMaruf/SSL-Resource/main/raw/image/home/s_8_service/2.jpg",
                     "videoData": null,
                     "gifUrl": null
                   },
@@ -937,7 +963,8 @@
                   "id": "1",
                   "mediaContent": {
                     "mediaType": "image",
-                    "imageUrl": "https://s3-alpha-sig.figma.com/img/b082/315f/b2ff7b0ff54b1845ceea5dd6068300ad?Expires=1721606400&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=bAwnPrqbZi8ukfo~Vp3nHKdKigN9zm7d0Ghsjk7KwzQ38Fm584kmhY~tfw8cG37b1XKfyTeyNQ2XagbgBgqTcYcUoj3yQEJGCybsHjGxPr3Y~UT4ODnNXtfze0pZWx1yFTyWbtZj289-qJORvH2p2m4kM4jYgbD8fc42xA-xA3jzr0JvtIFxwQGfAoG2I9XbzLRNdkEx5gbMRzcFW6-ASjJ03IikawFrcLAf27BUL~KgdL0sVsI0N0oro3FfqfEUw-cIw1-4AkPEJu7iDuHTNWkNZCP7G5DCS~pCUtOi5w8rKzH5ifJxc2YJx8nxMyWfDEHl9vOK74addWD38lPLkg__", "videoData": null,
+                    "imageUrl": "https://raw.githubusercontent.com/AppsDevMaruf/SSL-Resource/main/raw/image/home/s_8_service/3.jpg",
+                    "videoData": null,
                     "gifUrl": null
                   },
                   "tileTitle": null,
@@ -961,7 +988,7 @@
                   "id": "1",
                   "mediaContent": {
                     "mediaType": "image",
-                    "imageUrl": "https://s3-alpha-sig.figma.com/img/2619/1f93/2cd0700915e614fab2239c7d9f1778c4?Expires=1721606400&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=ihBiBO2GOicsfr6hv98qv~4O~2rYGPTRi5WDcuCmLjhaQn8-z--ZUSMPIF65ns8OdQxaYtaGta90cmbgJHtUvklIeJ4fO8HLnEXBTtYl05U7OnaN8vuPrBE3I~cqtRFlXFYISrjrA9HT5LVBd2vlH~rA8x76aPkzk13gj-Iq1oql4fR4u-8X3sFiNsTIsyKC9OXNJY-BG4mBTv1Jb2Ec~OdYxfHZN~kIUXdfrFGwBeC7aG3X5tUcY-qC-~F0xNSTxrWRru~h33pv21D-fAvkZ527LXOIcwojt9Y77hwfHess7eRQzcaEYYphlUuBAonOIj4n9gs7S18osZBopX-8wQ__",
+                    "imageUrl": "https://raw.githubusercontent.com/AppsDevMaruf/SSL-Resource/main/raw/image/home/s_8_service/4.jpg",
                     "videoData": null,
                     "gifUrl": null
                   },
@@ -986,7 +1013,7 @@
                   "id": "1",
                   "mediaContent": {
                     "mediaType": "image",
-                    "imageUrl": "https://s3-alpha-sig.figma.com/img/1bc5/b18e/84724a1ab2a7d1e59af93d23cd1e7a4d?Expires=1721606400&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=IbhIwRrETdFU91140aVWCTk1oaRDRCaHDD2IToBbGD6sCoX151JfcbAh2SNfI8YE~q-WVD6xpZ-XWtdduWuKyP-0BN0wQdIzo8p9bs2X3-Km0xakXX6CK~n-gb0DrUgk6n2keABsgJsgxhBKi6bAfOJq0ECkXQVzHAHYyeuuyuWlYp40D147nWTRYz~fFM0xPSEeX3CvwypWki6FiWGjVLRbUoY5n7uHBeYV08olVHJPdPKAmZWydHrymLqq-K-jNmycH3XczFukvRlboByguSYmA-ZHz5G9BhMYOFQ6hajznXjpCR6aXLMRf0FHmDvOK26Vi1ccrgT4Rm~As6wXnA__",
+                    "imageUrl":  "https://raw.githubusercontent.com/AppsDevMaruf/SSL-Resource/main/raw/image/home/s_8_service/5.jpg",
                     "videoData": null,
                     "gifUrl": null
                   },
@@ -1011,7 +1038,7 @@
                   "id": "1",
                   "mediaContent": {
                     "mediaType": "image",
-                    "imageUrl": "https://s3-alpha-sig.figma.com/img/f6e8/c7c4/3bcf0e564fbf36682fe7d25c123ad813?Expires=1721606400&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=YPQuG7H9IQ0AOJQudugdJHqC~Fy8pYi3R4st2VPZxkADT87UjxKCJChK1H5B8~RCco6nuNH-NJFavoJfN58hXR3HSUC7hq-rV8mQNmgLEFfTsjp4HZzWOWO5UKRe3kSVm-sar2G6pjvO06P3JTDWtEh9qCaW-nCg6fqpiQmvDPnTdZA8X8Mc27wePQFfGJxVvA5Ls7pvRhGvoGoD3FUGji5sQ8cxhZxy6rAiXmQbDredd-Ypzh64ofRX~uEbtoZuf73KzGhX1uT~x9h6fCqA1-ebhwu-6PTbCfeeqjVs5MGYGLILUCayaOrYnsXvEIjJgj3yPBp17lGpln2XrcEChA__",
+                    "imageUrl": "https://raw.githubusercontent.com/AppsDevMaruf/SSL-Resource/main/raw/image/home/s_8_service/6.jpg",
                     "videoData": null,
                     "gifUrl": null
                   },
@@ -1054,7 +1081,7 @@
                   "id": "1",
                   "mediaContent": {
                     "mediaType": "image",
-                    "imageUrl": "https://s3-alpha-sig.figma.com/img/e85a/3424/7a21a60dd98b24a72472655ef62be8d5?Expires=1721001600&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=h1-g9MWB1Jfxbrid~e-Ap5132YuOUjASoxmfejlWe0H5zw2ERBagOKhYJRtvoD9Wvx9SD3CIg5OpIDiU4py9xIWh5Or2rP36KOlh9fDVzIC0-uphcVLQv6LuKGQQaql81oRDInKqFw8NeVByP19iG4QT0OD~zVCVrqKRAqRlRyzilYlnoWFman2lSyGhM9osb5Lz3YUfBp7OKrEIQsOy2y8ZWWdaIe3L~mvRlGYxOZo2REOBjaXDUC24F-InIuh2k2-Dz9bRfXL5It-HWegazYBwasaKWghMi-YT~33aHBrBu8koJn-ccHkxiJTz7asPWHcoaXIb1xG6Ndov5MaPsQ__",
+                    "imageUrl":"https://raw.githubusercontent.com/AppsDevMaruf/SSL-Resource/main/raw/image/home/s_9_customize/1.jpg",
                     "videoData": null,
                     "gifUrl": null
                   }
@@ -1067,7 +1094,7 @@
                     "text": "Customize",
                     "textColor": "#000000"
                   },
-                  "icon": "https://i.ibb.co/zr7Wxws/Icon.png",
+                  "icon": "https://raw.githubusercontent.com/AppsDevMaruf/SSL-Resource/e0d62f0260a1853da03242d056a6d48a32ca1208/raw/image/home/icon/ic_menu_customize.svg",
                   "buttonBackgroundColor": "#FFFFFF"
                 }
               },
@@ -1078,7 +1105,7 @@
                   "id": "2",
                   "mediaContent": {
                     "mediaType": "image",
-                    "imageUrl": "https://s3-alpha-sig.figma.com/img/a7f1/70a6/57e5e54bbbf530de5ce0d60df2c60505?Expires=1721001600&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=gih0mssqJVCLhNx0ok08zdJ9FDzPs6L-ITnqMuql4FULyy7soQToBZOgHXTIFFGasZhS0rUgCCABCgRisOzQehMgoRt0vgCR0Hy8wy0dk81p-y-iRahD1tG6pZGzo7dDPadffCmKf7XQjJ8tG6s1xx8r3TrtHtF3XXYSwYw4mswV8Gpep1CRU8g-tyjFlJvErU5siswFt~wO8TCFDQRJdOOMVg~uRQSdWdjqUpRfUfasnvMkoMMNdwEBl3pPBPiCXx-fwrBooWLQOujRaECP9j0tbZ~BCGIFHDj1fHQudcY~DXdjxpVCRf0fRu8T1tyYlrjrCsak758UmAw~TVVwrg__",
+                    "imageUrl": "https://raw.githubusercontent.com/AppsDevMaruf/SSL-Resource/main/raw/image/home/s_9_customize/2.png",
                     "videoData": null,
                     "gifUrl": null
                   }
@@ -1091,7 +1118,7 @@
                     "text": "Customize",
                     "textColor": "#000000"
                   },
-                  "icon": "https://i.ibb.co/zr7Wxws/Icon.png",
+                  "icon": "https://raw.githubusercontent.com/AppsDevMaruf/SSL-Resource/e0d62f0260a1853da03242d056a6d48a32ca1208/raw/image/home/icon/ic_menu_customize.svg",
                   "buttonBackgroundColor": "#FFFFFF"
                 }
               }
@@ -1104,7 +1131,7 @@
             "version": 1,
             "mediaContent": {
               "mediaType": "image",
-              "imageUrl": "https://s3-alpha-sig.figma.com/img/fcd3/86d6/c9f3278a205d168922dd8f20754d570a?Expires=1721001600&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=HONJItJQfBpjI3JbaMaGiJLU6a0QrhtRi9veQ-umEsuCqBq~nPNB8aC-VJb3T-WtQZSVWw0jQN7EOIXKZrs9wAQeQsnk1OLcPOrr~clOUlKjgihdqI~Rf9zG2uBIBey8OjqkGJRVabjQqAp67-oQJ-KARhR6eXvQqXp9K~vKB60ZooXK8dxJkWGORYPxnZE0c3Z3VflCPj-iWiIKXsqd5EtprTJ2dLL62Jo4qTtygUEuujuo1w8ghyLy0FlWbSx9ljFBkxcSWdKlxBz6WC0b-67IWumT~FcrWHPJ9vYYmpLRAHBlBn81riYNnPqdCSOWkMdQBIN1lC3WZIExNxVsSg__",
+              "imageUrl":"https://raw.githubusercontent.com/AppsDevMaruf/SSL-Resource/main/raw/image/home/s_10_shop_the_kitchen/1.jpg",
               "videoData": null,
               "gifUrl": null
             },
@@ -1163,7 +1190,8 @@
                   "id": "1",
                   "mediaContent": {
                     "mediaType": "image",
-                    "imageUrl": "https://s3-alpha-sig.figma.com/img/c76c/7b2e/83a40a306e807bb75cd2b3068c46a4e1?Expires=1721606400&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=IVxSTq3famOIbADSD4222nv-MvvKmwOLSVRcvkweX5-i3G~NCgXIOswjsZiuXEJQop3C7SmWGySxhs7UbAc8EZfgBdj~d8Q7IdeHaLGtPuPXm4QJv2jSALinPmWr-MVqkmLv7Idu4meQkRUoWEvXKH6RQmzK-KqwSt-PMUmxjMY35RtXZrZxsU8bE5lgWH3uYd35bFN-0VoScUaYl4wNnGaJ4j9Yyl-b~3OxQAth~tBqjDB3AO7CC3rL0lakdc6viwXrQlsuMOvxDI8aszhcYB9Njc~y28BhA4OZ3wcOjRh1PF365ObxHTAMTDBb7iiBK50bdaxwxJpxrRACtqLZvw__", "videoData": null,
+                    "imageUrl":"https://raw.githubusercontent.com/AppsDevMaruf/SSL-Resource/main/raw/image/home/s_11_home_appliances/1.png",
+                    "videoData": null,
                     "gifUrl": null
                   },
                   "tileTitle": {
@@ -1190,7 +1218,8 @@
                   "id": "2",
                   "mediaContent": {
                     "mediaType": "image",
-                    "imageUrl": "https://s3-alpha-sig.figma.com/img/82a4/1ae5/82cff8d51d4d527d88e05cf3cc8e4298?Expires=1721606400&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=ngWPwbiRHvMXRrZS~WLfEgPj5xGaVoB9RjQLqSfQCwAr2kQI9Q74NV9gtnNK7GZQtghoguvLr8S5sE3v-HBNOFrsv8bxywZDCxjaX8ZBa7DpAT5MLANra3IAeW0e-eWBgDpcRXFZlZrviU~-BxPdmMmEkxRF-OVaD80DmbpysQdIQHx6FoeT4QhtP2TLq~iUagv4PCeT7pB4ZS3ZU2PzgWPdlr6HJyoe2WwJNE7cei7TiSXOBzCknTohTkceuGb-y7X3IkSg0Dh-hFbBv4J6I6jMDbpA-HheNpwT7LDchi5t--EMj8Ud4HixWjPq-3ROt-A-wVb1y9qALf5BY6jHbw__", "videoData": null,
+                    "imageUrl":"https://raw.githubusercontent.com/AppsDevMaruf/SSL-Resource/main/raw/image/home/s_11_home_appliances/2.jpg",
+                    "videoData": null,
                     "gifUrl": null
                   },
                   "tileTitle": {
@@ -1217,7 +1246,8 @@
                   "id": "3",
                   "mediaContent": {
                     "mediaType": "image",
-                    "imageUrl": "https://s3-alpha-sig.figma.com/img/6f0d/32e8/945bbac33a6bbcb3951a0ff0bf2ea575?Expires=1721606400&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=DOlm98uC~IWqQyQweWjkG7ew1VFHtOjQ7e3W6WkRDUDmfZ2yWmk4n6mMcxsD8IXPwMgicTpt8eRchX1AD23hONgEe2WEJTHFEr5uN7aBfg-8fx2wDZq17YoIijnP0RR3uWRkbhBfHEjD19cvrA2RnzGjj~efcPWbuUq~RxwivcvyUZyvOmyO~A~k-wRJatbT~K128T-cc~IwZqV0eRq-cY8jeEpKxXW1mkBxUtoAnnF69OMg48pi5HNztT9vD5JWps42VKK0TyJAtsB-NRbp~Rb-XOHpxoSDqYCbPPKDMzmNVsu5xsNK-MA89iwcneV8YFX74TO7kLYOD3yzLhwoaw__", "videoData": null,
+                    "imageUrl": "https://raw.githubusercontent.com/AppsDevMaruf/SSL-Resource/main/raw/image/home/s_11_home_appliances/3.jpg",
+                    "videoData": null,
                     "gifUrl": null
                   },
                   "tileTitle": {
@@ -1244,7 +1274,8 @@
                   "id": "4",
                   "mediaContent": {
                     "mediaType": "image",
-                    "imageUrl": "https://s3-alpha-sig.figma.com/img/fb8f/2564/72744446535da586432d202508467bd3?Expires=1721606400&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=kg24T4IZaS30-nCGl3SG7qrPcruasaU2BQzwLnIBKdGxBYzDoVMb0n65ua-So1YlrNZVvDF56u0E3UVZ8j8sI1Dw8RfYkkTWdiUShNbILLW0ML7rcAAvuT7aPkkhywYm33yIa8ALQlu-s-tb7-vvbdG~LOsCSTHUmjbvZh8dqs7Vazv~1vH-iOGi1YVQA4PMhVeCielyi5gg3lkhulVY2SoekcyYEFa0CeVc8RUiRGMejmFGPm3Lw2IpKhihyTFlk~SM7VWdf62TH6a45oD35VlUfToP8jZOu2Mc-khM0OkGnWCU6LdWGSCq3-BKTIWzaGXWouCAu-KjC3ytXdqvcw__", "videoData": null,
+                    "imageUrl": "https://raw.githubusercontent.com/AppsDevMaruf/SSL-Resource/main/raw/image/home/s_11_home_appliances/4.jpg",
+                    "videoData": null,
                     "gifUrl": null
                   },
                   "tileTitle": {
@@ -1268,10 +1299,11 @@
                 "navigationUrl": null,
                 "tileContent": {
                   "type": "product",
-                  "id": "1",
+                  "id": "5",
                   "mediaContent": {
                     "mediaType": "image",
-                    "imageUrl": "https://s3-alpha-sig.figma.com/img/3458/6b82/1ce7e006d568c0fd064a103c22dc2284?Expires=1721606400&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=ADnBKeK2nHPOygLDJw3nYMvlr5~RjizAo-MqMtqMUfaMZVQmBn0gjNyhdiAJnWlLfj-gDXW5x5i2xqcR9WEoIlcdxW9bcS35BXrrDzVQpmOG3FACFbm~KyOwJ-m~5xPmpA8W5pc24PoX4H9fJy2jJSN8MbuvL7BKgsar-2NmImNpn4U2b9O8MOR-TTvL01MGb7VjDpJacuu6a1qbhCRhRAK1ZIZ0M8r2RiovoK0FAddKaofXdL9PULnSC~jfWVIA7scvesAqPIjDp5W8NelV-9ssdeQUjvr4wmAR~ZBwH75ayn6G698lr8HQ7eupMSsv1yYV1JvxKTOUXam2oJ9o4g__",  "videoData": null,
+                    "imageUrl": "https://raw.githubusercontent.com/AppsDevMaruf/SSL-Resource/main/raw/image/home/s_11_home_appliances/5.jpg",
+                    "videoData": null,
                     "gifUrl": null
                   },
                   "tileTitle": {
@@ -1298,7 +1330,7 @@
                   "id": "6",
                   "mediaContent": {
                     "mediaType": "image",
-                    "imageUrl": "https://s3-alpha-sig.figma.com/img/1f8b/1491/be76a126f8657733e90f702491a39dca?Expires=1721606400&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=VquWIX05tqYBtrK7jFyfgXubw9E7X9kwjCiMqF-k6D9Ajm~Shdw5awHphRXIB2OzaJPSLmPkOqimPzGkqHt6GWER4lD0hsDwGoB-tCCsl5oPOhnun1qn5KclX5JXhkTFyd9Nu-UlMF5EqRW6~CBF3bN-reMl3wqHq~PTxhqAUliNY~1aBLAguWX0HZJe0UapIGnzQjSvYXjhvCr7HVxVKAjN8Aofyc50JxD59oFMeUfkCcAJFI7SefDnA567YZLr5AZQF1VWGvnNBpNiVbSh6Z23RGO4DbO5WOf37JvXad-xKf0zIwlyJw1zOs~sECvt3C0zxY5bI2b~i8r98s8yqQ__",
+                    "imageUrl": "https://raw.githubusercontent.com/AppsDevMaruf/SSL-Resource/main/raw/image/home/s_11_home_appliances/6.jpg",
                     "videoData": null,
                     "gifUrl": null
                   },
@@ -1326,7 +1358,8 @@
                   "id": "7",
                   "mediaContent": {
                     "mediaType": "image",
-                    "imageUrl": "https://s3-alpha-sig.figma.com/img/79bf/777e/632aedd115ef2520347cb1eb232951d4?Expires=1721606400&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=Y445Cn2UELWyG95mGzzLM8MyBbCOlEz9GlsmaHIBcqs5Lq7lIWAPrZ4wNKcUoaFpAt-H-FlbkmCM0TVREnF3AqLdI7yqt1mANB8k3pyOi9lR4~Ph-kh5fkNllKUFtSEAuxFNoP2E5rWBcg56KAswpZK5NEDKd9BTnoIzUxBWXfqQRlqwXwUXACL4ww5T48dU69jJLDWFFBctwoVtyMNiZXFINgE8Hyx7CAHR4qQmDEmnk91NP6WBkUF80IEzu4D0A8KwpuWDwdco3MtesAmdMQeeJhMnap~4mGKx40nfMiLMo7nnG9wWAkbRlA7Oa58fPsXN6KOziF5eoazuZ29ZHg__", "videoData": null,
+                    "imageUrl": "https://raw.githubusercontent.com/AppsDevMaruf/SSL-Resource/main/raw/image/home/s_11_home_appliances/7.jpg",
+                    "videoData": null,
                     "gifUrl": null
                   },
                   "tileTitle": {
@@ -1353,7 +1386,8 @@
                   "id": "8",
                   "mediaContent": {
                     "mediaType": "image",
-                    "imageUrl": "https://s3-alpha-sig.figma.com/img/784a/9914/74cc66730cdd4a62c70ec9665b48485e?Expires=1721606400&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=k481kESm66s-CQQcXR4Zjesd2UriACj1Cl17k9UhR9h8m5Up06Y0MFnw4LDEpp4JhvGxfpXle5hM098IweIsrjQZWeJeb48feIsY72VGWrO~5QyRtGJAtgxVnpDinWDBuYwEr93fwZ4t2h7tS6wNSlEM0k3XQtDx9NNY48B9yTz2vPnEE4Efta8n3Fd2eKuL3rK9TivYkGzY5B3K204TCUdhDMvieXipmV98L6EYZzYtBHiKoivxLt7T99ubVuJ0SWe8HfC0rz7Sc1Z1~qHjClPcYbGWF~j5v70gY7lITUr8f--c9I2uiUGVv91oJQ~ZVsLWDArzG-DB0GJAljh86g__", "videoData": null,
+                    "imageUrl": "https://raw.githubusercontent.com/AppsDevMaruf/SSL-Resource/main/raw/image/home/s_11_home_appliances/3.jpg",
+                    "videoData": null,
                     "gifUrl": null
                   },
                   "tileTitle": {
@@ -1379,7 +1413,7 @@
         {
           "sectionType": "products_branding_section",
           "productsBrandingSectionContent": {
-            "background": "#F5EECA",
+            "backgroundColor": "#F5EECA",
             "version": 1,
             "title": {
               "navigationUrl": null,
@@ -1410,7 +1444,7 @@
                   "id": "1",
                   "mediaContent": {
                     "mediaType": "image",
-                    "imageUrl": "https://s3-alpha-sig.figma.com/img/11e9/f107/b16b6e6c9df6396127d3e22eb0453724?Expires=1721001600&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=LeOJBwtHf693lktTuVyX7K9jfVbeW-i1EeUcsGyWANlc8jfqNUxfiiU0UU6BV9ZYZ0IkwuFjWaWI7X6RRXA2RNtHG8PEB6BH3OeKfKr0xbELxlpfi013owE5HfWc6wzALSfjnR9lqpys9HUcVxjbIuacV-mu5CbF6y6MITztDCxBKmczIyVjO3ulq426Fo5CNduX1NSDQvXiZkgdhTSAJjRK3Lz6nQBujWlTicATcOEy~wRE4WUn70Nk-dOtfCpSm0sq2H-Cn2cGEFkwjpBZ3XtXEmc8sJ35EMOeFgf~chz1ZSzTBkzgM~3gLTVjpoGFdDd4alu636-~KFkuwVi~Fg__",
+                    "imageUrl": "https://raw.githubusercontent.com/AppsDevMaruf/SSL-Resource/main/raw/image/home/s_12_interior_house/1.png",
                     "videoData": null,
                     "gifUrl": null
                   },
@@ -1438,7 +1472,7 @@
                   "id": "2",
                   "mediaContent": {
                     "mediaType": "image",
-                    "imageUrl": "https://s3-alpha-sig.figma.com/img/318b/70c9/3438d1ef5af66b19a7c0b1214ec6287b?Expires=1721001600&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=Dda0VyAjXaTAaRMc0mIqGlq0uPBq8BfEDNc53kT7b8dTJoUoIzsiUhfb9ZQ0dJ3nulcP8a8~gC5Q-cO7IuSWQuKqaVLX1faT76kZpIFcsmcDqqmYhE7oyc3-fw~Y-3rMJXKNT~i~-xKhXEr21ioEfr648p0dWjjgIAT-rw0lx22J9K3FOgwIhI182mwHuP~j3Pj7oHifOiGlgUNcjei0WYFeKExr0SNGGiFfgp2D6VS6y~KTPP0GHBoA7efUbxB40ufPKNE0ubctwK8XtYRpAmOawBuDthRAsyxGtu~nEo2BKd0SzoYq9sp96QMAk~iS55eQZRY-4PsEPWb~-XN4lA__",
+                    "imageUrl": "https://raw.githubusercontent.com/AppsDevMaruf/SSL-Resource/main/raw/image/home/s_12_interior_house/2.png",
                     "videoData": null,
                     "gifUrl": null
                   },
@@ -1466,7 +1500,7 @@
                   "id": "3",
                   "mediaContent": {
                     "mediaType": "image",
-                    "imageUrl": "https://s3-alpha-sig.figma.com/img/4d26/b525/16faea662b69a528be457d9627047064?Expires=1721001600&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=LYT03~N0eEERNtJAUev7-MgInXRVbQppPXvK1hOZwNaUOsLDFfn7yehNxgtPKVECzV7R7zP5TdpDHQgIkgX5z6WiH6efLrby1xVHiAa4oRjoGASDLmUMHhjwYUvh~Os11jDDk9IJbetLQJH36Y1l3BIHzDxXcPgPoqNFJtxdr0ziGQJKD~LgG7eIrXybFJlSd59boSYhXDNGEk1reNsjaogJm0p~1xsWZrr1dEUaa-7l-Pr1zWyyHmxpjV1S2b3V0ACbq~aa-bRrhG2m3So2lvaNg-13aDgzj~C~sDNY2IBMUW1BpEMDFHcrwbQNwQUPBuNfEEjgkZ5ajKvTjITBEg__",
+                    "imageUrl": "https://raw.githubusercontent.com/AppsDevMaruf/SSL-Resource/main/raw/image/home/s_12_interior_house/3.png",
                     "videoData": null,
                     "gifUrl": null
                   },
@@ -1494,7 +1528,7 @@
                   "id": "4",
                   "mediaContent": {
                     "mediaType": "image",
-                    "imageUrl": "https://s3-alpha-sig.figma.com/img/f96f/a266/63874969ed0e3912e572e7129eb9d840?Expires=1721001600&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=cQ9qduPX3K4jVI3~qG2j7y-Z~vfnLgyL4ZEwyOmvPFqKurtpYASBBwWfpC71U95jezvbUEb4~TQoerZfuiaAs7p3EM5hMMuiAz6UXNtJpRDbrjna7iIydeUShzoHA-QH9iDJbWN6VJ4fjMIG9Ro7MWxM-1E3TUt4yK9lHKq4VDN7fJup4WkXsnSS3vrMDdBP8jIkxF4u~LPwO-Wxitl361fmx-6A44kfOBNs0CqzbZH51e3sBhB2bcSZAqG5pMHu1x54-sb7O8DGIlIF8HMWvmQoD0J2Ai2tpx4c81KXy5MhqMEz2yE4WHCTuoxy4PRpm4XAwGHmeKtKDojMZ-6cBQ__",
+                    "imageUrl": "https://raw.githubusercontent.com/AppsDevMaruf/SSL-Resource/main/raw/image/home/s_12_interior_house/4.png",
                     "videoData": null,
                     "gifUrl": null
                   },
@@ -1551,7 +1585,7 @@
                   "id": "1",
                   "mediaContent": {
                     "mediaType": "image",
-                    "imageUrl": "https://s3-alpha-sig.figma.com/img/11e9/f107/b16b6e6c9df6396127d3e22eb0453724?Expires=1721001600&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=LeOJBwtHf693lktTuVyX7K9jfVbeW-i1EeUcsGyWANlc8jfqNUxfiiU0UU6BV9ZYZ0IkwuFjWaWI7X6RRXA2RNtHG8PEB6BH3OeKfKr0xbELxlpfi013owE5HfWc6wzALSfjnR9lqpys9HUcVxjbIuacV-mu5CbF6y6MITztDCxBKmczIyVjO3ulq426Fo5CNduX1NSDQvXiZkgdhTSAJjRK3Lz6nQBujWlTicATcOEy~wRE4WUn70Nk-dOtfCpSm0sq2H-Cn2cGEFkwjpBZ3XtXEmc8sJ35EMOeFgf~chz1ZSzTBkzgM~3gLTVjpoGFdDd4alu636-~KFkuwVi~Fg__",
+                    "imageUrl": "https://raw.githubusercontent.com/AppsDevMaruf/SSL-Resource/main/raw/image/home/s_6_prodcuts/1.png",
                     "videoData": null,
                     "gifUrl": null
                   },
@@ -1579,7 +1613,7 @@
                   "id": "2",
                   "mediaContent": {
                     "mediaType": "image",
-                    "imageUrl": "https://s3-alpha-sig.figma.com/img/318b/70c9/3438d1ef5af66b19a7c0b1214ec6287b?Expires=1721001600&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=Dda0VyAjXaTAaRMc0mIqGlq0uPBq8BfEDNc53kT7b8dTJoUoIzsiUhfb9ZQ0dJ3nulcP8a8~gC5Q-cO7IuSWQuKqaVLX1faT76kZpIFcsmcDqqmYhE7oyc3-fw~Y-3rMJXKNT~i~-xKhXEr21ioEfr648p0dWjjgIAT-rw0lx22J9K3FOgwIhI182mwHuP~j3Pj7oHifOiGlgUNcjei0WYFeKExr0SNGGiFfgp2D6VS6y~KTPP0GHBoA7efUbxB40ufPKNE0ubctwK8XtYRpAmOawBuDthRAsyxGtu~nEo2BKd0SzoYq9sp96QMAk~iS55eQZRY-4PsEPWb~-XN4lA__",
+                    "imageUrl": "https://raw.githubusercontent.com/AppsDevMaruf/SSL-Resource/main/raw/image/home/s_6_prodcuts/2.png",
                     "videoData": null,
                     "gifUrl": null
                   },
@@ -1607,7 +1641,7 @@
                   "id": "3",
                   "mediaContent": {
                     "mediaType": "image",
-                    "imageUrl": "https://s3-alpha-sig.figma.com/img/4d26/b525/16faea662b69a528be457d9627047064?Expires=1721001600&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=LYT03~N0eEERNtJAUev7-MgInXRVbQppPXvK1hOZwNaUOsLDFfn7yehNxgtPKVECzV7R7zP5TdpDHQgIkgX5z6WiH6efLrby1xVHiAa4oRjoGASDLmUMHhjwYUvh~Os11jDDk9IJbetLQJH36Y1l3BIHzDxXcPgPoqNFJtxdr0ziGQJKD~LgG7eIrXybFJlSd59boSYhXDNGEk1reNsjaogJm0p~1xsWZrr1dEUaa-7l-Pr1zWyyHmxpjV1S2b3V0ACbq~aa-bRrhG2m3So2lvaNg-13aDgzj~C~sDNY2IBMUW1BpEMDFHcrwbQNwQUPBuNfEEjgkZ5ajKvTjITBEg__",
+                    "imageUrl": "https://raw.githubusercontent.com/AppsDevMaruf/SSL-Resource/main/raw/image/home/s_6_prodcuts/3.png",
                     "videoData": null,
                     "gifUrl": null
                   },
@@ -1635,7 +1669,7 @@
                   "id": "4",
                   "mediaContent": {
                     "mediaType": "image",
-                    "imageUrl": "https://s3-alpha-sig.figma.com/img/f96f/a266/63874969ed0e3912e572e7129eb9d840?Expires=1721001600&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=cQ9qduPX3K4jVI3~qG2j7y-Z~vfnLgyL4ZEwyOmvPFqKurtpYASBBwWfpC71U95jezvbUEb4~TQoerZfuiaAs7p3EM5hMMuiAz6UXNtJpRDbrjna7iIydeUShzoHA-QH9iDJbWN6VJ4fjMIG9Ro7MWxM-1E3TUt4yK9lHKq4VDN7fJup4WkXsnSS3vrMDdBP8jIkxF4u~LPwO-Wxitl361fmx-6A44kfOBNs0CqzbZH51e3sBhB2bcSZAqG5pMHu1x54-sb7O8DGIlIF8HMWvmQoD0J2Ai2tpx4c81KXy5MhqMEz2yE4WHCTuoxy4PRpm4XAwGHmeKtKDojMZ-6cBQ__",
+                    "imageUrl": "https://raw.githubusercontent.com/AppsDevMaruf/SSL-Resource/main/raw/image/home/s_6_prodcuts/4.png",
                     "videoData": null,
                     "gifUrl": null
                   },
