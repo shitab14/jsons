@@ -83,7 +83,7 @@
                     "videoData": {
                       "url": "https://appsdevmaruf.github.io/SSL-Resource/raw/video/furniture_demo_video.mp4",
                       "thumbnail": "https://raw.githubusercontent.com/AppsDevMaruf/SSL-Resource/main/raw/image/home/s_1/b2.jpg",
-                      "autoplay": true,
+                      "autoplay": false,
                       "autoRepeat": false,
                       "duration": 10000
                     },
