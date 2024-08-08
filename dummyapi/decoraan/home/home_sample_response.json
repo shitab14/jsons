@@ -105,16 +105,8 @@
               {
                 "navigationUrl": "promotionalBannerv1nav",
                 "bannerContent": {
-                  "title": {
-                    "navigationUrl": null,
-                    "text": null,
-                    "textColor": "#1D2939"
-                  },
-                  "subtitle": {
-                    "navigationUrl": null,
-                    "text": null,
-                    "textColor": "#1D2939"
-                  },
+                  "title":null,
+                  "subtitle": null,
                   "mediaContent": {
                     "mediaType": "gif",
                     "imageUrl": null,
@@ -492,8 +484,8 @@
             },
             "gradient": {
               "gradientColor": {
-                "topColor": "#FFF9E0",
-                "bottomColor": "#FFFFFF"
+                "primary": "#FFF9E0",
+                "secondary": "#FFFFFF"
               }
             }
           }
