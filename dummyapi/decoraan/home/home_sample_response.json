@@ -67,44 +67,6 @@
               {
                 "navigationUrl": "promotionalBannerv1nav",
                 "bannerContent": {
-                  "title": {
-                    "navigationUrl": null,
-                    "text": "Get cozy in this spring",
-                    "textColor": "#1D2939"
-                  },
-                  "subtitle": {
-                    "navigationUrl": null,
-                    "text": "Spring Collection unlike anything else",
-                    "textColor": "#1D2939"
-                  },
-                  "mediaContent": {
-                    "mediaType": "video",
-                    "imageUrl": null,
-                    "videoData": {
-                      "url": "https://appsdevmaruf.github.io/SSL-Resource/raw/video/furniture_demo_video.mp4",
-                      "thumbnail": "https://raw.githubusercontent.com/AppsDevMaruf/SSL-Resource/main/raw/image/home/s_1/b2.jpg",
-                      "autoplay": false,
-                      "autoRepeat": false,
-                      "duration": 10000
-                    },
-                    "gifUrl": null
-                  },
-                  "shopButton": {
-                    "show": true,
-                    "backgroundColor": "#FFFFFF",
-                    "cornerRadius": "32",
-                    "navigationUrl": "www.google.com.bd",
-                    "buttonText": {
-                      "navigationUrl": "",
-                      "text": "SHOP THE ROOM",
-                      "textColor": "#344054"
-                    }
-                  }
-                }
-              },
-              {
-                "navigationUrl": "promotionalBannerv1nav",
-                "bannerContent": {
                   "title":null,
                   "subtitle": null,
                   "mediaContent": {
