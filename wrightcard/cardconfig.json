@@ -1,0 +1,7 @@
+{
+  "code": 200,
+  "message": "Configuration Successfully Received",
+  "body": {
+    "bodyMsg": "This is Body Message for Configuration API"
+  }
+}
