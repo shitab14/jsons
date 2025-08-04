@@ -1,0 +1,10 @@
+{
+  "id": 0,
+  "email": "user@example.com",
+  "first_name": "string",
+  "last_name": "string",
+  "address": "string",
+  "firebase_console_manager_token": "string",
+  "password": "string",
+  "date_joined": "2025-08-04T13:25:00.127Z"
+}

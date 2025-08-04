@@ -1,0 +1,16 @@
+[
+  {
+    "id": 0,
+    "seller": 0,
+    "title": "string",
+    "description": "string",
+    "categories": [
+      "electronics"
+    ],
+    "product_image": "string",
+    "purchase_price": "",
+    "rent_price": "-",
+    "rent_option": "hour",
+    "date_posted": "2025-08-04T13:26:36.180Z"
+  }
+]
