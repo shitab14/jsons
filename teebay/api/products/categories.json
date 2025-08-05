@@ -1,6 +1,16 @@
 [
   {
-    "value": "string",
-    "label": "string"
+    "value": "electronics",
+    "label": "Electronics"
+  },
+  
+  {
+    "value": "toys",
+    "label": "Toys"
+  },
+  
+  {
+    "value": "appliances",
+    "label": "Appliances"
   }
 ]
