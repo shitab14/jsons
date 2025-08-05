@@ -2,14 +2,14 @@
   {
     "id": 0,
     "seller": 0,
-    "title": "string",
-    "description": "string",
+    "title": "The Title",
+    "description": "There is a lot",
     "categories": [
-      "electronics"
+      "electronics", "appliances"
     ],
-    "product_image": "string",
-    "purchase_price": "",
-    "rent_price": "-",
+    "product_image": "https://shitab14.github.io/jsons/images/square_image.jpeg",
+    "purchase_price": "100",
+    "rent_price": "20",
     "rent_option": "hour",
     "date_posted": "2025-08-04T13:26:36.180Z"
   }
