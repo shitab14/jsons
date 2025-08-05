@@ -3,14 +3,30 @@
     "id": 0,
     "seller": 0,
     "title": "The Title",
-    "description": "There is a lot",
+    "description": "This is a short Dummy Description.",
+    "categories": [
+      "electronics"
+    ],
+    "product_image": "https://shitab14.github.io/jsons/images/square_image.jpeg",
+    "purchase_price": "$100",
+    "rent_price": "$20",
+    "rent_option": "hour",
+    "date_posted": "2025-08-04T13:26:36.180Z"
+  },
+
+  {
+    "id": 1,
+    "seller": 1,
+    "title": "Another Title",
+    "description": "This is a long Dummy Description. This is a long Dummy Description. This is a long Dummy Description. This is a long Dummy Description. This is a long Dummy Description. This is a long Dummy Description. This is a long Dummy Description.",
     "categories": [
       "electronics", "appliances"
     ],
     "product_image": "https://shitab14.github.io/jsons/images/square_image.jpeg",
-    "purchase_price": "100",
-    "rent_price": "20",
-    "rent_option": "hour",
+    "purchase_price": "$100",
+    "rent_price": "$20",
+    "rent_option": "day",
     "date_posted": "2025-08-04T13:26:36.180Z"
   }
+  
 ]
