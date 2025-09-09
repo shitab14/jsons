@@ -1,0 +1,29 @@
+{
+  "id": "3",
+  "cards": [
+    {
+      "title_text": "Bulbasaur",
+      "title_text_color": "#FFFFFF",
+      "subtitle_text": "",
+      "subtitle_text_color": "#FFFFFF",
+      "image_url": "",
+      "background_color": "#000000"
+    },
+    {
+      "title_text": "Charmander",
+      "title_text_color": "#000000",
+      "subtitle_text": "",
+      "subtitle_text_color": "#000000",
+      "image_url": "",
+      "background_color": "#FFFFFF"
+    },
+    {
+      "title_text": "Squirtle",
+      "title_text_color": "#FFFFFF",
+      "subtitle_text": "",
+      "subtitle_text_color": "#FFFFFF",
+      "image_url": "",
+      "background_color": "#000000"
+    }
+  ]
+}
